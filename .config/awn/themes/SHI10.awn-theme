@@ -1,0 +1,42 @@
+[config/theme]
+icon_text_color = #5d5d5d5d5d5dff00
+ghistep1 = #ffffffffffff0000
+ghistep2 = #ffffffffffff0a0a
+icon_text_outline_color = #ffffffffffffff00
+tooltip_font_color = #ffffffffffffffff
+draw_pattern = False
+gstep1 = #4d4a4d4a4d4affff
+gstep2 = #294a294a294affff
+panel_angle = 20.0
+gtk_theme_mode = False
+corner_radius = 14.0
+tooltip_font_name = Sans 10
+tooltip_bg_color = #000000000000b3b3
+hilight = #ffffffffffff0f0f
+curviness = 17.0
+icon_font_mode = 2
+border = #0000000000001616
+sep_color = #aaaaaaaaaaaaa400
+curves_symmetry = 0.15000000596
+tooltip_outline_color = #000000000000a8a8
+
+[config/effects]
+icon_effect = 279620
+arrow_icon = __awn_internal_arrow2
+show_shadows = False
+active_rect_color = #9090878779796666
+active_rect_outline = #0000000000000000
+
+[config/panel/1]
+style = 2
+orient = 3
+expand = False
+size = 64
+
+[theme-info]
+awn-theme-version = 0.4.0
+author = Ian Cylkowski
+name = SHI10
+version = 0.2
+icon = /home/arteal/.config/awn/themes/SHI10/thumb.png
+

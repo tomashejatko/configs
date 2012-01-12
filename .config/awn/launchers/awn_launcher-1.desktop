@@ -1,0 +1,7 @@
+
+[Desktop Entry]
+Type=Application
+Name=cmd
+Exec=gnome-terminal
+StartupNotify=true
+Icon=gnome-terminal

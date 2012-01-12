@@ -1,0 +1,13 @@
+URxvt*transparent:true
+URxvt*scrollBar:false
+URxvt*geometry:124x24    #I do not use the whole screen, if you want a full screen term do not bother with this and see below.
+URxvt*borderLess:true
+URxvt*foreground:Black   #Font color. My wallpaper is White, you may wish to change this to White.
+xterm*borderWidth: 0
+xterm*background: black
+xterm*scrollbar: true
+xterm*foreground: white
+xterm*eightBitInput:   false
+xterm*metaSendsEscape: true
+XTerm*metaSendsEscape: True
+XTerm*altSendsEscape: True

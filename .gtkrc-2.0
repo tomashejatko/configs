@@ -1,0 +1,20 @@
+# DO NOT EDIT! This file will be overwritten by LXAppearance.
+# Any customization should be done in ~/.gtkrc-2.0.mine instead.
+
+gtk-theme-name="Dust Burnt"
+gtk-icon-theme-name="OxygenRefit2-black-version"
+gtk-font-name="Sans 12"
+gtk-cursor-theme-name="Oxygen_White"
+gtk-cursor-theme-size=0
+gtk-toolbar-style=GTK_TOOLBAR_ICONS
+gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
+gtk-button-images=0
+gtk-menu-images=1
+gtk-enable-event-sounds=1
+gtk-enable-input-feedback-sounds=1
+gtk-xft-antialias=1
+gtk-xft-hinting=1
+gtk-xft-hintstyle="hintfull"
+gtk-xft-rgba="none"
+gtk-color-scheme="tooltip_fg_color:#323232\nbase_color:#fff\nselected_fg_color:#fff\ntext_color:#323232\nbg_color:#D9D4CC\ntooltip_bg_color:#ebeab8\nselected_bg_color:#75645B\nfg_color:#323232\n"
+include "/home/arteal/.gtkrc-2.0.mine"
